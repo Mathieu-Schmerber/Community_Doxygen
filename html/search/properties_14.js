@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['value_0',['Value',['../class_community_a_p_i_1_1_models_1_1_database_model_1_1_court_model_1_1_attribute.html#a98eb20c6438309062e69176e090cf4b0',1,'CommunityAPI.Models.DatabaseModel.CourtModel.Attribute.Value()'],['../class_community_a_p_i_1_1_models_1_1_database_model_1_1_court_model_1_1_attribute_request.html#a57949747b6321112215ed38b883e5758',1,'CommunityAPI.Models.DatabaseModel.CourtModel.AttributeRequest.Value()'],['../class_community_a_p_i_1_1_models_1_1_o_auth_1_1_google_gender.html#a401670185bb6254a442d8a497f3fd904',1,'CommunityAPI.Models.OAuth.GoogleGender.Value()'],['../class_community_a_p_i_1_1_models_1_1_o_auth_1_1_google_email_addresse.html#a8aa2ffc1cdcc187d960bb72ea64d9502',1,'CommunityAPI.Models.OAuth.GoogleEmailAddresse.Value()']]],
+  ['value_1',['value',['../class_community_a_p_i_1_1_models_1_1_data_types_1_1_distance.html#a769f8fe71343c86f40cb53eb9f4c955e',1,'CommunityAPI.Models.DataTypes.Distance.value()'],['../class_community_a_p_i_1_1_models_1_1_data_types_1_1_duration.html#a47278b875ae37f9b51c413aab733a6b1',1,'CommunityAPI.Models.DataTypes.Duration.value()']]]
+];
