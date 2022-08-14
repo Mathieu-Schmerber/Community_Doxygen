@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Community API", "index.html", [
+  [ "Community API", "", [
     [ "Community API - Documentation", "index.html", [
       [ "Executive summary", "index.html#autotoc_md1", null ],
       [ "Team", "index.html#autotoc_md2", null ]

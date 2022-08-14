@@ -5,7 +5,7 @@ var NAVTREEINDEX7 =
 "globals_type.html":[3,1,1],
 "hierarchy.html":[2,2],
 "index.html":[],
-"index.html":[0],
+"index.html":[],
 "index.html#autotoc_md1":[0,0],
 "index.html#autotoc_md2":[0,1],
 "interface_community_a_p_i_1_1_models_1_1_event_system_1_1_i_event_handler.html":[2,0,0,2,2,5],
