@@ -1,4 +1,0 @@
-var _user_location_updated_event_8cs =
-[
-    [ "CommunityAPI.Models.EventSystem.Accounts.UserLocationUpdatedEvent", "class_community_a_p_i_1_1_models_1_1_event_system_1_1_accounts_1_1_user_location_updated_event.html", "class_community_a_p_i_1_1_models_1_1_event_system_1_1_accounts_1_1_user_location_updated_event" ]
-];

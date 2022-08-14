@@ -24,7 +24,11 @@
 */
 var NAVTREE =
 [
-  [ "Community", "index.html", [
+  [ "Community API", "index.html", [
+    [ "Community API - Documentation", "index.html", [
+      [ "Executive summary", "index.html#autotoc_md1", null ],
+      [ "Team", "index.html#autotoc_md2", null ]
+    ] ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ],
       [ "Package Members", "namespacemembers.html", [

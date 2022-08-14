@@ -1,4 +1,0 @@
-var namespace_community_a_p_i_1_1_models_1_1_event_system_1_1_accounts =
-[
-    [ "UserLocationUpdatedEvent", "class_community_a_p_i_1_1_models_1_1_event_system_1_1_accounts_1_1_user_location_updated_event.html", "class_community_a_p_i_1_1_models_1_1_event_system_1_1_accounts_1_1_user_location_updated_event" ]
-];

@@ -1,4 +1,0 @@
-var dir_fca9ac7b411958016457492bb1521955 =
-[
-    [ "CommunityAPI", "dir_13a6233abf84f30144dc8094a2142819.html", "dir_13a6233abf84f30144dc8094a2142819" ]
-];

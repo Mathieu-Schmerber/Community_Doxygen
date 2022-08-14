@@ -1,9 +1,0 @@
-var searchData=
-[
-  ['badgeid_0',['BadgeId',['../class_community_a_p_i_1_1_models_1_1_database_model_1_1_account_model_1_1_badge_progress.html#a813d42475f78351e90373026c5cc4487',1,'CommunityAPI::Models::DatabaseModel::AccountModel::BadgeProgress']]],
-  ['badgenumber_1',['BadgeNumber',['../class_community_a_p_i_1_1_models_1_1_database_model_1_1_account_model_1_1_user_data.html#aa1c720a6732eb7978a6a5982a8c7cf4d',1,'CommunityAPI::Models::DatabaseModel::AccountModel::UserData']]],
-  ['badgeprogresses_2',['BadgeProgresses',['../class_community_a_p_i_1_1_models_1_1_database_model_1_1_account_model_1_1_user_data.html#aed7b2b42251d80e6faf32f061c2155be',1,'CommunityAPI::Models::DatabaseModel::AccountModel::UserData']]],
-  ['badges_3',['Badges',['../class_community_a_p_i_1_1_models_1_1_service_tracker.html#af1fe8fdbd30f0bd24b1294fb0beeb64d',1,'CommunityAPI::Models::ServiceTracker']]],
-  ['badgeservice_4',['BadgeService',['../class_community_a_p_i_1_1_controllers_1_1_badge_controller.html#a42502960a38ee7f599b4f2439086acfc',1,'CommunityAPI::Controllers::BadgeController']]],
-  ['birthday_5',['Birthday',['../class_community_a_p_i_1_1_models_1_1_database_model_1_1_account_model.html#ad48c520cee57a3acd970ccacae1e2339',1,'CommunityAPI.Models.DatabaseModel.AccountModel.Birthday()'],['../class_community_a_p_i_1_1_models_1_1_o_auth_1_1_facebook_user.html#a95a1ed06f1a789e17149c12687a0414e',1,'CommunityAPI.Models.OAuth.FacebookUser.Birthday()'],['../class_community_a_p_i_1_1_models_1_1_requests_1_1_account_1_1_account_patch_request.html#add57b5f099a704a1a6ce54b754fa557f',1,'CommunityAPI.Models.Requests.Account.AccountPatchRequest.Birthday()'],['../class_community_a_p_i_1_1_models_1_1_requests_1_1_account_1_1_account_post_request.html#a277955f509536f0325951b20077d2d20',1,'CommunityAPI.Models.Requests.Account.AccountPostRequest.Birthday()']]]
-];
